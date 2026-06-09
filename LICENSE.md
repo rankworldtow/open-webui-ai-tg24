@@ -1,4 +1,4 @@
-# 
+# VIP Open WebUI themes. Featuring model-deployment and community-support — optimized for maximum performance and efficiency.
 
 
 
